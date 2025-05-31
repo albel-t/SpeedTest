@@ -23,8 +23,10 @@ pip3 install pycairo numpy matplotlib
 ##  Скачивание VS Code:
 
 На панели выберите магазин приложений
-![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
-
+![desktop](https://github.com/albel-t/SpeedTest/blob/main/desktop.png)
+<p align="center">
+<img  src="https://github.com/HeorhiiZemlianko/Calculate-BMI-and-risk-category/blob/main/task2golang/Снимок.PNG"  width="350" alt="Calculate-BMI-and-risk-category"/>
+</p>
 
 Введите в поиск (Ctrl+f) ключевое слово "code", выберите приложение и установите
 ![code][image_ref_oyrsdwie]
