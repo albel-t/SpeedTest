@@ -35,7 +35,7 @@ pip3 install pycairo numpy matplotlib
 ![codefolder](https://github.com/albel-t/SpeedTest/blob/main/codefolder.png)
 
 Во вкладке "Расширения" введите "py" и установите расширение "Python"
-![codepy](codepy.png)
+![codepy](https://github.com/albel-t/SpeedTest/blob/main/codepy.png)
 Перейдите в файл "window.py" и запустите проект
 
 
