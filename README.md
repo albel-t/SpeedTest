@@ -24,20 +24,18 @@ pip3 install pycairo numpy matplotlib
 
 На панели выберите магазин приложений
 ![desktop](https://github.com/albel-t/SpeedTest/blob/main/desktop.png)
-<p align="center">
-<img  src="https://github.com/HeorhiiZemlianko/Calculate-BMI-and-risk-category/blob/main/task2golang/Снимок.PNG"  width="350" alt="Calculate-BMI-and-risk-category"/>
-</p>
+
 
 Введите в поиск (Ctrl+f) ключевое слово "code", выберите приложение и установите
-![code][image_ref_oyrsdwie]
+![code](https://github.com/albel-t/SpeedTest/blob/main/code.png)
 
 ##  Запуск решения
 
 Запустите VS Code и нажмите "открыть папку", во всплывающем окне выберите папку с проектом
-![codefolder][image_ref_23rdi3v7]
+![codefolder](https://github.com/albel-t/SpeedTest/blob/main/codefolder.png)
 
 Во вкладке "Расширения" введите "py" и установите расширение "Python"
-![codepy][image_ref_an8kwptg]
+![codepy](https://github.com/albel-t/SpeedTest/blob/main/codepy.png)
 Перейдите в файл "window.py" и запустите проект
 
 
