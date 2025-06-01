@@ -23,22 +23,18 @@ pip3 install pycairo numpy matplotlib
 ##  Скачивание VS Code:
 
 На панели выберите магазин приложений
-![desktop](https://github.com/albel-t/SpeedTest/blob/main/desktop.png)
 ![desktop](desktop.png)
 
 
 Введите в поиск (Ctrl+f) ключевое слово "code", выберите приложение и установите
-![code](https://github.com/albel-t/SpeedTest/blob/main/code.png)
 ![code](code.png)
 
 ##  Запуск решения
 
 Запустите VS Code и нажмите "открыть папку", во всплывающем окне выберите папку с проектом
-![codefolder](https://github.com/albel-t/SpeedTest/blob/main/codefolder.png)
 ![codefolder](codefolder.png)
 
 Во вкладке "Расширения" введите "py" и установите расширение "Python"
-![codepy](https://github.com/albel-t/SpeedTest/blob/main/codepy.png)
 ![codepy](codepy.png)
 Перейдите в файл "window.py" и запустите проект
 
