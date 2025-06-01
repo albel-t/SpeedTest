@@ -24,18 +24,22 @@ pip3 install pycairo numpy matplotlib
 
 На панели выберите магазин приложений
 ![desktop](https://github.com/albel-t/SpeedTest/blob/main/desktop.png)
+![desktop](desktop.png)
 
 
 Введите в поиск (Ctrl+f) ключевое слово "code", выберите приложение и установите
 ![code](https://github.com/albel-t/SpeedTest/blob/main/code.png)
+![code](code.png)
 
 ##  Запуск решения
 
 Запустите VS Code и нажмите "открыть папку", во всплывающем окне выберите папку с проектом
 ![codefolder](https://github.com/albel-t/SpeedTest/blob/main/codefolder.png)
+![codefolder](codefolder.png)
 
 Во вкладке "Расширения" введите "py" и установите расширение "Python"
 ![codepy](https://github.com/albel-t/SpeedTest/blob/main/codepy.png)
+![codepy](codepy.png)
 Перейдите в файл "window.py" и запустите проект
 
 
@@ -48,7 +52,8 @@ pip3 install pycairo numpy matplotlib
 Состоит из 3 секций: поле для ввода имени пользователя (для поиска устройств), выпадающий список с флешками доступными для проверки, кнопка обновления флешек доступных для проверки, кнопка начала мониторинга скорости.
 #### Второстепенное окно
 Состоит из 2 секций: поле для вывода информации (тестируемое утройство, пользователь, данные о последнем измерении, счетчик измерений), граик зависимости скорости записи/чтения от номера итерации.
-
+### Ссылка на репозиторий:
+https://github.com/albel-t/SpeedTest
 
 
 

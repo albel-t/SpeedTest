@@ -1,8 +1,10 @@
 
 # Тестирование приложением:
 ![graphicbig](https://github.com/albel-t/SpeedTest/blob/main/graphicbig.png)
+![graphicbig](graphicbig.png)
 # Тестирование командой:
 ![testcommand](https://github.com/albel-t/SpeedTest/blob/main/testcommand.png)
+![testcommand](testcommand.png)
 
 
 
